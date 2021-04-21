@@ -7,7 +7,7 @@ I'm Kento, a Software engineer in the Southern California area <img src="https:/
 </a>
 <!-- Medium link -->
 <a href="https://medium.com/@kmurata798">
-  <img align="right" alt="Kento Murata | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
+  <img align="right" alt="Kento Murata | Medium" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
 
 <!-- Github stats -->
