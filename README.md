@@ -3,6 +3,12 @@ I'm Kento, a Software engineer in Southern California <img src="https://media2.g
 <a href="https://medium.com/@kmurata798">
   <img align="right" alt="Kento Murata | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
+<a href="https://medium.com/@kmurata798">
+  <img align="right" alt="Kento Murata | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
+</a>
+<a href="https://medium.com/@kmurata798">
+  <img align="right" alt="Kento Murata | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
+</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmurata798&show_icons=true&title_color=69f2ba&icon_color=7886e6&text_color=939eaf&bg_color=151515" alt="my github stats" width="445"/>&nbsp;
