@@ -1,8 +1,8 @@
 ### Hi there 👋
-<p align="center">
+
 ![Kento Murata's github stats](https://github-readme-stats.vercel.app/api?username=kmurata798&show_icons=true&icon_color=7886e6&title_color=69f2ba&bg_color=151515&theme=dracula)
 
-
-  <img src ="https://github-readme-stats.vercel.app/api?username=kmurata798&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&text_color=69f2ba&bg_color=00000000">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellojess&show_icons=true&title_color=fff&icon_color=F8738D&text_color=9f9f9f&bg_color=151515" alt="my github stats" width="445"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellojess&layout=compact&show_icons=true&title_color=fff&icon_color=fc8930&text_color=69f2ba&bg_color=151515" alt="languages" height="176">
 </p>
