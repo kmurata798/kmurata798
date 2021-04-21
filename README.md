@@ -1,7 +1,7 @@
 ###  👋 Hi there!
 I'm Kento, a Software engineer in Southern California <img src="https://media2.giphy.com/media/TiUn9ylege7lI7Dj2n/source.gif" width="30px"><img src="https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/b7b0e81603cc2b33d502bb8e6280c096/859/1428011701_wavesbyyuki_01.gif" width="30px"><img src="http://fc05.deviantart.net/fs71/f/2011/161/5/2/happy_sun_by_vanillanade-d3ikqxc.gif" width="30px">
 
-Checkout my social links:
+<p style="text-align: right;">Checkout my social links:</p>
 <a href="https://medium.com/@kmurata798">
   <img align="right" alt="Kento Murata | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
