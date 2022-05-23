@@ -3,7 +3,7 @@ I'm Kento, a Software engineer in the Southern California area <img src="https:/
 
 
 <!-- Linkedin link -->
-<a href="https://www.linkedin.com/in/kmurata798/">
+<a href="https://www.linkedin.com/in/kento-murata/">
    <img align="right" alt="Kento Murata | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>
 <!-- Medium link -->
